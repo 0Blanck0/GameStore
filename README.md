@@ -150,7 +150,7 @@ gamestore/
 The app follows a modern and clean design, with an emphasis on ease of use and smooth navigation. The interface elements are organized in a logical way, allowing users to easily find what they are looking for.
 
 ## Project Origin
-This project was done as part of a dart/flutter tutorial via the [Driss AS] (https://www.youtube.com/watch?v=iasOWA6JSKc). This project allows me to get a glimpse of this technology and how it can be used.
+This project was done as part of a dart/flutter tutorial via the [Driss AS](https://www.youtube.com/watch?v=iasOWA6JSKc). This project allows me to get a glimpse of this technology and how it can be used.
 
 ## License
 This project is under MIT license - see the LICENSE file for details.
